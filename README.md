@@ -14,5 +14,5 @@ Data Analysis, and Artificial Intelligence.
 - Fonts: Sora & Work Sans (Google Fonts)
 
 ## View the site
-Open `portfolio-modern_7.html` in any browser, or enable GitHub Pages 
+Open `My portfolio.html` in any browser, or enable GitHub Pages 
 (Settings → Pages → deploy from main branch) to view it live.
